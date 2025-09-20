@@ -1,18 +1,18 @@
-# 🦸‍♂️ Sistema de Búsqueda de Superhéroes
+# Sistema de Búsqueda de Superhéroes
 
 Un sistema web completo desarrollado en **CodeIgniter 4** para buscar, visualizar y generar reportes PDF de superhéroes con sus atributos y poderes.
 
-## 🚀 Características Principales
+##  Características Principales
 
-- **🔍 Búsqueda en tiempo real** con autocompletado inteligente
-- **⚡ Sugerencias dinámicas** mientras escribes (ej: "bat" → Batman, Batgirl)
-- **📊 Visualización de atributos** con barras de progreso interactivas
-- **🎯 Mostrar poderes** como badges coloridos y organizados
-- **📄 Generación de PDF** con solo los poderes del superhéroe seleccionado
-- **📱 Diseño responsive** que funciona en móviles, tablets y desktop
-- **🎨 Interfaz moderna** con Bootstrap 5 y Font Awesome
+- ** Búsqueda en tiempo real** con autocompletado inteligente
+- ** Sugerencias dinámicas** mientras escribes (ej: "bat" → Batman, Batgirl)
+- ** Visualización de atributos** con barras de progreso interactivas
+- ** Mostrar poderes** como badges coloridos y organizados
+- ** Generación de PDF** con solo los poderes del superhéroe seleccionado
+- ** Diseño responsive** que funciona en móviles, tablets y desktop
+- ** Interfaz moderna** con Bootstrap 5 y Font Awesome
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Backend:** CodeIgniter 4 (PHP 8.1+)
 - **Base de Datos:** MySQL
@@ -21,7 +21,7 @@ Un sistema web completo desarrollado en **CodeIgniter 4** para buscar, visualiza
 - **Iconos:** Font Awesome 6
 - **AJAX:** Fetch API con async/await
 
-## 📋 Requisitos del Sistema
+##  Requisitos del Sistema
 
 - **PHP:** 8.1 o superior
 - **Composer:** 2.0 o superior (gestor de dependencias PHP)
@@ -31,7 +31,7 @@ Un sistema web completo desarrollado en **CodeIgniter 4** para buscar, visualiza
 - **Navegador:** Chrome, Firefox, Safari, Edge (versiones modernas)
 - **Conexión a Internet:** Para cargar Html2pdf.js desde CDN (opcional si se instala localmente)
 
-## 🔧 Instalación y Configuración
+##  Instalación y Configuración
 
 ### 1. **Clonar o Descargar el Proyecto**
 ```bash
@@ -166,10 +166,7 @@ composer require mpdf/mpdf
 ```
 
 ### 7. **Verificar Instalación**
-1. Abrir navegador en: `http://localhost/superhero/public/test`
-2. Verificar que todas las tablas aparezcan como ✅
-3. Confirmar que hay datos de muestra
-4. Probar generación de PDF en: `http://localhost/superhero/public/hero`
+1. Probar generación de PDF en: `http://localhost/superhero/public/hero`
 
 ## 🎯 Uso del Sistema
 
