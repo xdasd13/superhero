@@ -57,11 +57,7 @@ composer --version
 composer --version
 ```
 
-#### **Linux/Mac:**
-```bash
-# Descargar e instalar Composer
-curl -sS https://getcomposer.org/installer | php
-sudo mv composer.phar /usr/local/bin/composer
+
 
 # Verificar instalación
 composer --version
