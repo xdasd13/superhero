@@ -9,7 +9,7 @@
     </page_header>
     <page_footer>
       <hr>
-      <p class="pie">Reporte generado por: Sistema de Superhéroes - Página [[page_cu]]/[[page_nb]]</p>
+      <p class="pie">Reporte generado por: Sistema de Superhero - Página [[page_cu]]/[[page_nb]]</p>
     </page_footer>
     
     <table class="table">
